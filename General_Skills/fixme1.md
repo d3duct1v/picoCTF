@@ -13,5 +13,9 @@ Once the extension is loaded, errors will be highlighted automatically.  On line
 
 ![Screenshot 2024-11-03 at 11 18 55 AM](https://github.com/user-attachments/assets/c9825694-d129-405e-b3f0-84e755e82492)
 
+Run the script on the command line for the flag.
+```bash
+python3 fixme1.py
+```
 ### Flag
 `picoCTF{1...f}`
